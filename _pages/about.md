@@ -26,8 +26,7 @@ In addition to my research activities, I am also an educator passionate about te
 <span style="color: red;">If you want to collaborate with me, please feel free to contact me!</span>
 
 # 🔬 Research Directions
-- Infrared and Visible Image Fusion
-- All-Weather Image Processing in Snowy Conditions
+- Image Processing
 - Physiological Signal Recognition
 
 <span class='anchor' id='publications'></span>
