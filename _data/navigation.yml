@@ -9,6 +9,9 @@ main:
   - title: "Publications (科研成果)"
     url: "/#publications"
 
+  - title: "Code Link(代码链接)"
+    url: "/#Code Link"
+
   - title: "Projects (科研项目)"
     url: "/#projects"
 
