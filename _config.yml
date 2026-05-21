@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"  # 👈 建议修改为："Zhang Lei Group Homepage"
-description              : "Lorem ipsum dolor sit amet..." # 👈 建议修改为一句话课题组简介，比如："Research group at NENU focusing on Image Restoration and Computer Vision."
+title                    : "Zhang Lei Group Homepage"
+description              : "Personal Homepage of Master's Supervisor, School of Physics, Northeast Normal University" 
 repository               : "RayeRen/acad-homepage.github.io" # 👈 建议修改为："ZhangLeiGroup/ZhangLeiGroup.github.io"# google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
@@ -30,9 +30,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ZhangLeiGroup" # 这里我默认填了你课题组的GitHub主页，如果有导师个人的可以替换
-    - label: "WeChat"
-      icon: "fab fa-fw fa-weixin"
-      url: "你的微信号或者微信二维码图片链接" # 微信通常没有直接打开的网页链接，你可以填上微信号或者改为跳转到二维码图片的链接
 
 
 # Reading Files
