@@ -1,72 +1,110 @@
+# Welcome to My GitHub Profile! 👋
 
-<h1 align="center">
-AcadHomepage
-</h1>
+<span class='anchor' id='about-me'></span>
 
-<div align="center">
+I am a <strong style="color: #0070C0;">Senior Engineer</strong> at the School of Physics, Northeast Normal University (NENU). I specialize in **infrared and visible light image fusion technology**, **image processing**, and **physiological signal pattern recognition**. 
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
-</div>
+In addition to my research activities, I am also an educator passionate about technical practice. I have participated in multiple interdisciplinary projects, combining physical experimental techniques with modern information technology to enhance the effectiveness of experimental teaching and students’ research capabilities.
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+> <span style="color: red;">**If you want to collaborate with me, please feel free to contact me!**</span>
+> 
+> 🌐 **University Personal Homepage:** [Click Here to Visit](#) 
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+<hr>
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+<details>
+<summary><h3>🔬 Research Directions</h3></summary>
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+- Infrared and Visible Image Fusion
+- All-Weather Image Processing in Snowy Conditions
+- Physiological Signal Recognition
 
-## Quick Start
+</details>
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+<details>
+<summary><h3>📝 Selected Publications</h3></summary>
 
-## Debug Locally
+- **MSA-Former: Multi-scale Adaptive Transformer for Image Snow Removal** <br> 
+  *MultiMedia Modeling (MMM 2025)*, 2025.
+- **Electrical Impedance Tomography for Thorax Image Using Connected Component Labeling and Sparse Group Lasso** <br> 
+  *IEEE Transactions on Instrumentation and Measurement*, 2024.
+- **Two Stage Nighttime Desnowing Diffusion Model Based on Pseudo-Scenario Reconstruction** <br> 
+  *8th International Conference on Communication and Information Systems (ICCIS 2024)*, 2024.
+- **MLCDT: fine-grained multi-task learning for enhanced cognitive assessment in the clock drawing test** <br> 
+  *Computer Science Fourth International Conference on Computer Vision, Application, and Algorithm (CVAA 2024)*, 2024.
+- **SGECG: A StarGAN-based Framework for Intelligent ECG Generation and Augmentation** <br> 
+  *4th International Conference on Electronic Information Engineering and Computer Science (EIECS)*, 2024.
+- **计算机信息网络安全技术及发展方向研究** <br> 
+  *中国新通信*, 2022.
+- **Target Detection in Infrared Image of Transmission Line Based on Faster-RCNN** <br> 
+  *17th International Conference on Advanced Data Mining and Applications (ADMA 2021)*, 2022.
+- **Feature Fusion CNN-LSTM Network Based Gait Recognition On Covariate Of Clothing And Bag** <br> 
+  *3rd International Academic Exchange Conference on Science and Technology Innovation (IAECST 2021)*, 2022.
+- **PS-GAN: a single image snow removal framework using pseudo-Siamese GANs** <br> 
+  *2021 International Conference on Image Processing and Intelligent Control (IPIC 2021)*, 2021.
+- **FP-Tree算法规则挖掘的研究与应用** <br> 
+  *东北师大学报(自然科学版)*, 2021.
+- **The near infrared images enhancement of teeth based on improved successive mean quantization transform** <br> 
+  *9th International Symposium on Advanced Optical Manufacturing and Testing Technology*, 2019.
+- **Spiking Neural Network on Curve Fitting** <br> 
+  *2018 2nd International Conference on Modeling Simulation and Optimization Technologies and Application (MSOTA 2018)*, 2018.
+- **《基础物理实验》课程考核方法改革的实践与探索** <br> 
+  *第十届全国高等学校物理实验教学研讨会论文集(上)*, 2018.
+- **采用非采样contourlet变换与区域分类的红外和可见光图像融合** <br> 
+  *光学精密工程*, 2015.
+- **A new method to handle temporal planning in flexible graphplan framework** <br> 
+  *Advanced Materials Research*, 2013.
+- **Systemic model for software cost analyzing and optimizing** <br> 
+  *2011 IEEE 3rd International Conference on Communication Software and Networks (ICCSN 2011)*, 2011.
+- **A New Route to Multi-Functionalized p-Terphenyls and Heteroaryl Analogues via [5C + 1C(N)] Annulation Strategy** <br> 
+  *JOURNAL OF ORGANIC CHEMISTRY*, 2009.
+- **One-Pot Tandem Double-Aldol Reaction/Aza-Addition of Acetylacetamides and o-Phthalaldehyde Leading to Spiroindan-2,2′-pyrrolidines** <br> 
+  *Organic Letters*, 2009.
+- **Efficient One-Pot Synthesis of Polyfunctionalized Thiophenes via an Amine-Mediated Ring Opening of EWG-Activated 2-Methylene-1,3-dithioles** <br> 
+  *Organic Letters*, 2007.
+- **A Novel Off-Line Signature Verification Based On Adaptive Multi-resolution Wavelet Zero-Crossing and One-Class-One-Network** <br> 
+  *Lecture Notes in Computer Science*, 2007.
+- **基于LVQ神经网络的植物种类识别** <br> 
+  *吉林大学学报(理学版)*, 2007.
+- **析因试验设计在环境污染物联合毒性研究中的应用** <br> 
+  *干旱环境监测*, 2004.
+- **9种硝基苯对链球鱼肝微粒体EROD活性的影响** <br> 
+  *环境科学研究*, 2003.
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+</details>
 
-# Acknowledges
+<details>
+<summary><h3>🔬 Research Projects</h3></summary>
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+- **Research on Infrared and Color Visible Image Fusion in Haze Weather** <br> 
+  *China Autonomous Region Science and Technology Project*, 2017.
+- **Research on Infrared and Visible Image Fusion Technology in Haze Environment** <br> 
+  *Other Research Project*, 2016.
+
+</details>
+
+<details>
+<summary><h3>👨‍🏫 Teaching Information</h3></summary>
+
+- C Programming Language
+- Algorithms and Data Structures
+- Principles of Computer Networks
+- Network Communication Experiments
+
+</details>
+
+<details>
+<summary><h3>📜 Patents</h3></summary>
+
+- **A Wireless Control System and Method for Neutron Generators** <br> 
+  Jipeng Huang, Lianming Wang, Lei Zhang, Yanli Meng. <br> 
+  *Chinese Patent. Number: CN106873448A*
+
+</details>
+
+<details>
+<summary><h3>🎖 Honors and Awards</h3></summary>
+
+- **Third Prize in the Ninth Changchun City Outstanding Achievement in Social Sciences**, 2020.
+
+</details>
