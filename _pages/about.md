@@ -25,8 +25,6 @@ In addition to my research activities, I am also an educator passionate about te
 
 <span style="color: red;">If you want to collaborate with me, please feel free to contact me!</span>
 
-**University Personal Homepage:** [Click Here to Visit](#) <span class='anchor' id='research'></span>
-
 # 🔬 Research Directions
 - Infrared and Visible Image Fusion
 - All-Weather Image Processing in Snowy Conditions
