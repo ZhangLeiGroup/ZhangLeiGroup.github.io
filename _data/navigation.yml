@@ -10,7 +10,7 @@ main:
     url: "/#publications"
 
   - title: "Code Link(代码链接)"
-    url: "/#Code Link"
+    url: "/#code-link" 
 
   - title: "Projects (科研项目)"
     url: "/#projects"

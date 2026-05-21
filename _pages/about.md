@@ -80,6 +80,13 @@ In addition to my research activities, I am also an educator passionate about te
 - **9种硝基苯对链球鱼肝微粒体EROD活性的影响**
   *环境科学研究*, 2003.
 
+<span class='anchor' id='code-link'></span>
+
+# 💻 Code Link (代码链接)
+- **Project A:** [GitHub Repository Link](https://github.com/your-link)
+- **Project B:** [GitHub Repository Link](https://github.com/your-link)
+
+
 <span class='anchor' id='projects'></span>
 
 # 🔬 Research Projects
