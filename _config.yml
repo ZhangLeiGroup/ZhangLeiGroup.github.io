@@ -6,12 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
-
-# google analytics
+title                    : "Lorem ipsum"  # 👈 建议修改为："Zhang Lei Group Homepage"
+description              : "Lorem ipsum dolor sit amet..." # 👈 建议修改为一句话课题组简介，比如："Research group at NENU focusing on Image Restoration and Computer Vision."
+repository               : "RayeRen/acad-homepage.github.io" # 👈 建议修改为："ZhangLeiGroup/ZhangLeiGroup.github.io"# google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
@@ -21,42 +18,21 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name: "Lei Zhang(张蕾)"
+  avatar: "/images/avatar.jpg" # 这里填入头像照片的路径，如果没有照片可以把这行删掉或注释掉
+  bio: "Senior Engineer (Associate Senior Level)<br>School of Physics, Northeast Normal University" # 使用 <br> 来强制换行，保持和图片一样的排版
+  location: "Changchun, China" # 可以选填，不需要的话直接整行删除
+  email: "zhangl179@nenu.edu.cn"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zhangl179@nenu.edu.cn"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ZhangLeiGroup" # 这里我默认填了你课题组的GitHub主页，如果有导师个人的可以替换
+    - label: "WeChat"
+      icon: "fab fa-fw fa-weixin"
+      url: "你的微信号或者微信二维码图片链接" # 微信通常没有直接打开的网页链接，你可以填上微信号或者改为跳转到二维码图片的链接
 
 
 # Reading Files
