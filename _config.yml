@@ -20,7 +20,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name: "Lei Zhang(张蕾)"
   #avatar: "/images/avatar.jpg" # 这里填入头像照片的路径，如果没有照片可以把这行删掉或注释掉
-  bio: "Senior Engineer (Associate Senior Level)<br>School of Physics, Northeast Normal University" # 使用 <br> 来强制换行，保持和图片一样的排版
+  bio: "Senior Engineer<br>School of Physics, Northeast Normal University" # 使用 <br> 来强制换行，保持和图片一样的排版
   location: "Changchun, China" # 可以选填，不需要的话直接整行删除
   email: "zhangl179@nenu.edu.cn"
   links:
